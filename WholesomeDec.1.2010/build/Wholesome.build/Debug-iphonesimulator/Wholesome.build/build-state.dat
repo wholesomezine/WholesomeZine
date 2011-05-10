@@ -1,0 +1,1251 @@
+TWholesome
+v7
+r0
+t320807450.216187
+cCheck dependencies
+cProcessInfoPlistFile /Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/Info.plist Wholesome-Info.plist
+cCompileXIB /Volumes/WHOLESOMESD/WholesomeDec.1.2010/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/Wholesome.app/bigCubeNA.png bigCubeNA.png
+cCpResource build/Debug-iphonesimulator/Wholesome.app/navCubeNA.png navCubeNA.png
+cCpResource build/Debug-iphonesimulator/Wholesome.app/navCubeTouchedNA.png navCubeTouchedNA.png
+cCpResource build/Debug-iphonesimulator/Wholesome.app/Default.png Default.png
+cCpResource build/Debug-iphonesimulator/Wholesome.app/zine.navCubes.smallCube.image.png zine.navCubes.smallCube.image.png
+cCpResource build/Debug-iphonesimulator/Wholesome.app/legfish.button.png legfish.button.png
+cCpResource build/Debug-iphonesimulator/Wholesome.app/point.png point.png
+cCpResource build/Debug-iphonesimulator/Wholesome.app/Icon.png Icon.png
+cCpResource build/Debug-iphonesimulator/Wholesome.app/zine.navCubes.smallCubeTouched.image.png zine.navCubes.smallCubeTouched.image.png
+cCpResource build/Debug-iphonesimulator/Wholesome.app/zine.cover.background.image.png zine.cover.background.image.png
+cCpResource build/Debug-iphonesimulator/Wholesome.app/zine.cover.bigCube.image.png zine.cover.bigCube.image.png
+cCpResource build/Debug-iphonesimulator/Wholesome.app/zine.cover.title.image.png zine.cover.title.image.png
+cCpResource build/Debug-iphonesimulator/Wholesome.app/mob.title.png mob.title.png
+cCpResource build/Debug-iphonesimulator/Wholesome.app/circle.png circle.png
+cCpResource build/Debug-iphonesimulator/Wholesome.app/merchCube.titleButton.png merchCube.titleButton.png
+cCpResource build/Debug-iphonesimulator/Wholesome.app/crudCube.titleButton.disabled.png crudCube.titleButton.disabled.png
+cCpResource build/Debug-iphonesimulator/Wholesome.app/merchCube.titleButton.disabled.png merchCube.titleButton.disabled.png
+cCpResource build/Debug-iphonesimulator/Wholesome.app/mobCube.titleButton.disabled.png mobCube.titleButton.disabled.png
+cCpResource build/Debug-iphonesimulator/Wholesome.app/radioCube.titleButton.disabled.png radioCube.titleButton.disabled.png
+cCpResource build/Debug-iphonesimulator/Wholesome.app/zineCube.titleButton.disabled.png zineCube.titleButton.disabled.png
+cCpResource build/Debug-iphonesimulator/Wholesome.app/mobCube.titleButton.png mobCube.titleButton.png
+cCpResource build/Debug-iphonesimulator/Wholesome.app/zineCube.titleButton.png zineCube.titleButton.png
+cCpResource build/Debug-iphonesimulator/Wholesome.app/crudCube.titleButton.png crudCube.titleButton.png
+cCpResource build/Debug-iphonesimulator/Wholesome.app/radioCube.titleButton.png radioCube.titleButton.png
+cCpResource build/Debug-iphonesimulator/Wholesome.app/merch.title.png merch.title.png
+cCpResource build/Debug-iphonesimulator/Wholesome.app/crud.title.png crud.title.png
+cCpResource build/Debug-iphonesimulator/Wholesome.app/radio.title.png radio.title.png
+cProcessPCH /var/folders/m1/m1vvoFxD2PaFg++1YrAfEU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Wholesome_Prefix-gdgxucwfajkvxjdmdpggojecctfk/Wholesome_Prefix.pch.gch Wholesome_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Objects-normal/i386/main.o /Volumes/WHOLESOMESD/WholesomeDec.1.2010/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Objects-normal/i386/WholesomeAppDelegate.o /Volumes/WHOLESOMESD/WholesomeDec.1.2010/Classes/WholesomeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/Wholesome normal i386
+cGenerateDSYMFile /Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app.dSYM /Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/Wholesome
+cTouch /Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C93FEC70000000000000132
+t1284767431
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004C04586B00000000000000C4
+t1275353195
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CBF770C0000000000D00CA0
+t1287616268
+s13634720
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/BigCubeView.xib
+c000000004C9C089000000000000047A2
+t1285294224
+s18338
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Classes/BigCubeView.h
+c000000004C76C38500000000000001A1
+t1282851717
+s417
+i<UIKit/UIKit.h>
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Classes/BigCubeView.m
+c000000004C76C449000000000000036A
+t1282851913
+s874
+i"BigCubeView.h"
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Classes/HeaderView.h
+c000000004C9BB5B400000000000001FF
+t1285273012
+s511
+i<UIKit/UIKit.h>
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Classes/HeaderView.m
+c000000004C9BB6EF0000000000000347
+t1285273327
+s839
+i"HeaderView.h"
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Classes/WholesomeAppDelegate.h
+c000000004CF6BAAB0000000000000851
+t1291238059
+s2129
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+i"constants.h"
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Classes/WholesomeAppDelegate.m
+c000000004CF6BADF0000000000006515
+t1291238111
+s25877
+i"WholesomeAppDelegate.h"
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Default.png
+c000000004A283BF8000000000002C034
+t1244150776
+s180276
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/HeaderView.xib
+c000000004C9BB7260000000000005DD0
+t1285273382
+s24016
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Icon.png
+c000000004A283BF80000000000002AE6
+t1244150776
+s10982
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/MainWindow.xib
+c000000004C7694ED000000000001279B
+t1282839789
+s75675
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Wholesome_Prefix.pch
+c000000004BABDC6800000000000000BB
+t1269554280
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/bigCubeNA.png
+c000000004B9C2812000000000000267F
+t1268525074
+s9855
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app
+t1291238116
+s1190
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app.dSYM
+t1291238116
+s102
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/BigCubeView.nib
+t1291237808
+s1258
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/Default.png
+t1291237807
+s180276
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/HeaderView.nib
+t1291237808
+s2285
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/Icon.png
+t1291237807
+s10982
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/Info.plist
+t1291237807
+s703
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/MainWindow.nib
+t1291237808
+s6976
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/PkgInfo
+t1291237807
+s8
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/Wholesome
+t1291238116
+s50532
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/bigCubeNA.png
+t1291237807
+s9855
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/circle.png
+t1291237807
+s2931
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/crud.title.png
+t1291237807
+s3698
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/crudCube.titleButton.disabled.png
+t1291237807
+s3141
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/crudCube.titleButton.png
+t1291237807
+s3114
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/legfish.button.png
+t1291237807
+s3007
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/merch.title.png
+t1291237807
+s4349
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/merchCube.titleButton.disabled.png
+t1291237807
+s3222
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/merchCube.titleButton.png
+t1291237807
+s3210
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/mob.title.png
+t1291237807
+s3798
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/mobCube.titleButton.disabled.png
+t1291237807
+s3142
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/mobCube.titleButton.png
+t1291237807
+s3125
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/navCubeNA.png
+t1291237807
+s4760
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/navCubeTouchedNA.png
+t1291237807
+s3637
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/point.png
+t1291237807
+s2899
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/radio.title.png
+t1291237807
+s3940
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/radioCube.titleButton.disabled.png
+t1291237807
+s3186
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/radioCube.titleButton.png
+t1291237807
+s3187
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/zine.cover.background.image.png
+t1291237807
+s180276
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/zine.cover.bigCube.image.png
+t1291237807
+s8200
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/zine.cover.title.image.png
+t1291237807
+s5033
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/zine.navCubes.smallCube.image.png
+t1291237807
+s3429
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/zine.navCubes.smallCubeTouched.image.png
+t1291237807
+s3444
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/zineCube.titleButton.disabled.png
+t1291237807
+s3091
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/zineCube.titleButton.png
+t1291237807
+s3091
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Objects-normal/i386/BigCubeView.o
+t1291237810
+s39260
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Objects-normal/i386/HeaderView.o
+t2
+s0
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Objects-normal/i386/Wholesome.LinkFileList
+c000000004CF6BA070000000000000140
+t1291237895
+s320
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Objects-normal/i386/WholesomeAppDelegate.o
+t1291238116
+s114096
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Objects-normal/i386/main.o
+t1291237809
+s6356
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/circle.png
+c000000004B97E3450000000000000B73
+t1268245317
+s2931
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/constants.h
+c000000004C768B430000000000000D51
+t1282837315
+s3409
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/crud.title.png
+c000000004A283BF90000000000000E72
+t1244150777
+s3698
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/crudCube.titleButton.disabled.png
+c000000004B9961C80000000000000C45
+t1268343240
+s3141
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/crudCube.titleButton.png
+c000000004A283BF90000000000000C2A
+t1244150777
+s3114
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/legfish.button.png
+c000000004A283BF80000000000000BBF
+t1244150776
+s3007
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/main.m
+c000000004BABDC680000000000000168
+t1269554280
+s360
+i<UIKit/UIKit.h>
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/merch.title.png
+c000000004A283BF800000000000010FD
+t1244150776
+s4349
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/merchCube.titleButton.disabled.png
+c000000004B9962690000000000000C96
+t1268343401
+s3222
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/merchCube.titleButton.png
+c000000004A283BF90000000000000C8A
+t1244150777
+s3210
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/mob.title.png
+c000000004A283BF80000000000000ED6
+t1244150776
+s3798
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/mobCube.titleButton.disabled.png
+c000000004B99622D0000000000000C46
+t1268343341
+s3142
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/mobCube.titleButton.png
+c000000004A283BF90000000000000C35
+t1244150777
+s3125
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/navCubeNA.png
+c000000004BBFE7180000000000001298
+t1270867736
+s4760
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/navCubeTouchedNA.png
+c000000004B9ABE080000000000000E35
+t1268432392
+s3637
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/point.png
+c000000004A283BF80000000000000B53
+t1244150776
+s2899
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/radio.title.png
+c000000004A283BF80000000000000F64
+t1244150776
+s3940
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/radioCube.titleButton.disabled.png
+c000000004B99621D0000000000000C72
+t1268343325
+s3186
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/radioCube.titleButton.png
+c000000004A283BF90000000000000C73
+t1244150777
+s3187
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/zine.cover.background.image.png
+c000000004A283BF9000000000002C034
+t1244150777
+s180276
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/zine.cover.bigCube.image.png
+c000000004A283BF90000000000002008
+t1244150777
+s8200
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/zine.cover.title.image.png
+c000000004A283BF900000000000013A9
+t1244150777
+s5033
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/zine.navCubes.smallCube.image.png
+c000000004A283BF90000000000000D65
+t1244150777
+s3429
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/zine.navCubes.smallCubeTouched.image.png
+c000000004A283BF90000000000000D74
+t1244150777
+s3444
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/zineCube.titleButton.disabled.png
+c000000004A283BF90000000000000C13
+t1244150777
+s3091
+
+N/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/zineCube.titleButton.png
+c000000004B9961610000000000000C13
+t1268343137
+s3091
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/Classes/WholesomeAppDelegate.h
+c000000004CF6BAAA0000000000000851
+t1291238058
+s2129
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+i"constants.h"
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/Classes/WholesomeAppDelegate.m
+c000000004CF6BADE0000000000006515
+t1291238110
+s25877
+i"WholesomeAppDelegate.h"
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/Default.png
+c000000004A283BF8000000000002C034
+t1244150776
+s180276
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/Icon.png
+c000000004A283BF80000000000002AE6
+t1244150776
+s10982
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/MainWindow.xib
+c000000004C7694EC000000000001279B
+t1282839788
+s75675
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/Wholesome_Prefix.pch
+c000000004BABDC6800000000000000BB
+t1269554280
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/bigCubeNA.png
+c000000004B9C2812000000000000267F
+t1268525074
+s9855
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app
+t1299114650
+s32768
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app.dSYM
+t1299114650
+s32768
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/Default.png
+t1291237806
+s180276
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/Icon.png
+t1291237806
+s10982
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/Info.plist
+t1291237806
+s703
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/MainWindow.nib
+t1291237808
+s6976
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/PkgInfo
+t1291237806
+s8
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/Wholesome
+t1299114648
+s50436
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/bigCubeNA.png
+t1291237806
+s9855
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/circle.png
+t1291237806
+s2931
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/crud.title.png
+t1291237806
+s3698
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/crudCube.titleButton.disabled.png
+t1291237806
+s3141
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/crudCube.titleButton.png
+t1291237806
+s3114
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/legfish.button.png
+t1291237806
+s3007
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/merch.title.png
+t1291237806
+s4349
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/merchCube.titleButton.disabled.png
+t1291237806
+s3222
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/merchCube.titleButton.png
+t1291237806
+s3210
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/mob.title.png
+t1291237806
+s3798
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/mobCube.titleButton.disabled.png
+t1291237806
+s3142
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/mobCube.titleButton.png
+t1291237806
+s3125
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/navCubeNA.png
+t1291237806
+s4760
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/navCubeTouchedNA.png
+t1291237806
+s3637
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/point.png
+t1291237806
+s2899
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/radio.title.png
+t1291237806
+s3940
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/radioCube.titleButton.disabled.png
+t1299114644
+s3186
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/radioCube.titleButton.png
+t1291237806
+s3187
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/zine.cover.background.image.png
+t1291237806
+s180276
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/zine.cover.bigCube.image.png
+t1291237806
+s8200
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/zine.cover.title.image.png
+t1291237806
+s5033
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/zine.navCubes.smallCube.image.png
+t1291237806
+s3429
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/zine.navCubes.smallCubeTouched.image.png
+t1291237806
+s3444
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/zineCube.titleButton.disabled.png
+t1291237806
+s3091
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/zineCube.titleButton.png
+t1291237806
+s3091
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Objects-normal/i386/Wholesome.LinkFileList
+c000000004D6EEA920000000000000110
+t1299114642
+s272
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Objects-normal/i386/WholesomeAppDelegate.o
+t1299114648
+s114048
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Objects-normal/i386/main.o
+t1299114648
+s6308
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/circle.png
+c000000004B97E3440000000000000B73
+t1268245316
+s2931
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/constants.h
+c000000004C768B420000000000000D51
+t1282837314
+s3409
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/crud.title.png
+c000000004A283BF80000000000000E72
+t1244150776
+s3698
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/crudCube.titleButton.disabled.png
+c000000004B9961C80000000000000C45
+t1268343240
+s3141
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/crudCube.titleButton.png
+c000000004A283BF80000000000000C2A
+t1244150776
+s3114
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/legfish.button.png
+c000000004A283BF80000000000000BBF
+t1244150776
+s3007
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/main.m
+c000000004BABDC680000000000000168
+t1269554280
+s360
+i<UIKit/UIKit.h>
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/merch.title.png
+c000000004A283BF800000000000010FD
+t1244150776
+s4349
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/merchCube.titleButton.disabled.png
+c000000004B9962680000000000000C96
+t1268343400
+s3222
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/merchCube.titleButton.png
+c000000004A283BF80000000000000C8A
+t1244150776
+s3210
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/mob.title.png
+c000000004A283BF80000000000000ED6
+t1244150776
+s3798
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/mobCube.titleButton.disabled.png
+c000000004B99622C0000000000000C46
+t1268343340
+s3142
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/mobCube.titleButton.png
+c000000004A283BF80000000000000C35
+t1244150776
+s3125
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/navCubeNA.png
+c000000004BBFE7180000000000001298
+t1270867736
+s4760
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/navCubeTouchedNA.png
+c000000004B9ABE080000000000000E35
+t1268432392
+s3637
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/point.png
+c000000004A283BF80000000000000B53
+t1244150776
+s2899
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/radio.title.png
+c000000004A283BF80000000000000F64
+t1244150776
+s3940
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/radioCube.titleButton.disabled.png
+c000000004CF6BB1C0000000000000C72
+t1291238172
+s3186
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/radioCube.titleButton.png
+c000000004A283BF80000000000000C73
+t1244150776
+s3187
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/zine.cover.background.image.png
+c000000004A283BF8000000000002C034
+t1244150776
+s180276
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/zine.cover.bigCube.image.png
+c000000004A283BF80000000000002008
+t1244150776
+s8200
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/zine.cover.title.image.png
+c000000004A283BF800000000000013A9
+t1244150776
+s5033
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/zine.navCubes.smallCube.image.png
+c000000004A283BF80000000000000D65
+t1244150776
+s3429
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/zine.navCubes.smallCubeTouched.image.png
+c000000004A283BF80000000000000D74
+t1244150776
+s3444
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/zineCube.titleButton.disabled.png
+c000000004A283BF80000000000000C13
+t1244150776
+s3091
+
+N/Volumes/WHOLESOMESD/WholesomeDec.1.2010/zineCube.titleButton.png
+c000000004B9961600000000000000C13
+t1268343136
+s3091
+
+N/var/folders/m1/m1vvoFxD2PaFg++1YrAfEU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Wholesome_Prefix-dsdskdxyeeighfajavdaljiysero/Wholesome_Prefix.pch.gch
+t1291237809
+s15211536
+
+N/var/folders/m1/m1vvoFxD2PaFg++1YrAfEU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Wholesome_Prefix-gdgxucwfajkvxjdmdpggojecctfk/Wholesome_Prefix.pch.gch
+t1299114648
+s15211536
+
+NWholesome-Info.plist
+c000000004C92A034000000000000044B
+t1284677684
+s1099
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies320807441#320807443#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Objects-normal/i386/BigCubeView.o /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Classes/BigCubeView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s312930609.924196
+e312930610.034980
+r1
+xCompileC
+xbuild/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Objects-normal/i386/BigCubeView.o
+x/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Classes/BigCubeView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+o/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Classes/BigCubeView.m: In function '-[BigCubeView initWithFrame:]':
+o/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Classes/BigCubeView.m:26: warning: unused variable 'BigCubeNib'
+lSLF07#2@94"Compile /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Classes/BigCubeView.m312930609#312930610#0(405"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Classes/BigCubeView.m: In function '-[BigCubeView initWithFrame:]':/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Classes/BigCubeView.m:26: warning: unused variable 'BigCubeNib'1(22@28"Unused variable 'BigCubeNib'312930609#276#129#0(6@86"/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Classes/BigCubeView.m304544713#26#0#26#0#19"unused variable '*'0(0#0#86"/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Classes/BigCubeView.m8602951840#2303"    cd /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Wholesome-generated-files.hmap -I/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Wholesome-own-target-headers.hmap -I/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Wholesome-all-target-headers.hmap -iquote /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Wholesome-project-headers.hmap -F/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator -I/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/include -I/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/DerivedSources/i386 -I/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/DerivedSources -include /var/folders/m1/m1vvoFxD2PaFg++1YrAfEU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Wholesome_Prefix-dsdskdxyeeighfajavdaljiysero/Wholesome_Prefix.pch -c /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Classes/BigCubeView.m -o /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Objects-normal/i386/BigCubeView.o0#
+
+CCompileC build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Objects-normal/i386/HeaderView.o /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Classes/HeaderView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s312930653.144687
+e312930653.209542
+r0
+xCompileC
+xbuild/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Objects-normal/i386/HeaderView.o
+x/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Classes/HeaderView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+o/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Classes/HeaderView.m: In function '-[HeaderView buttonWasTouced:]':
+o/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Classes/HeaderView.m:39: error: expected ')' before '}' token
+o/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Classes/HeaderView.m:39: error: expected expression before '}' token
+o{standard input}:57:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:57:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:53:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"
+o{standard input}:53:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+lSLF07#2@93"Compile /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Classes/HeaderView.m312930653#312930653#0(1136"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Classes/HeaderView.m: In function '-[HeaderView buttonWasTouced:]':/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Classes/HeaderView.m:39: error: expected ')' before '}' token/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Classes/HeaderView.m:39: error: expected expression before '}' token{standard input}:57:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:57:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:53:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"{standard input}:53:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_02(4@29"Expected ')' before '}' token312930653#276#127#0(6@85"/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Classes/HeaderView.m306966127#39#0#39#0#19"expected * before *0(4@36"Expected expression before '}' token312930653#403#134#0(6@85"/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Classes/HeaderView.m306966127#39#0#39#0#19"expected * before *0(0#0#85"/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Classes/HeaderView.m8604568480#2301"    cd /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Wholesome-generated-files.hmap -I/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Wholesome-own-target-headers.hmap -I/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Wholesome-all-target-headers.hmap -iquote /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Wholesome-project-headers.hmap -F/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator -I/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/include -I/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/DerivedSources/i386 -I/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/DerivedSources -include /var/folders/m1/m1vvoFxD2PaFg++1YrAfEU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Wholesome_Prefix-dsdskdxyeeighfajavdaljiysero/Wholesome_Prefix.pch -c /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Classes/HeaderView.m -o /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Objects-normal/i386/HeaderView.o1#
+
+CCompileC build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Objects-normal/i386/WholesomeAppDelegate.o /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Classes/WholesomeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s312930916.230293
+e312930916.543390
+r1
+xCompileC
+xbuild/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Objects-normal/i386/WholesomeAppDelegate.o
+x/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Classes/WholesomeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@103"Compile /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Classes/WholesomeAppDelegate.m312930916#312930916#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#95"/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Classes/WholesomeAppDelegate.m8601823584#2321"    cd /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Wholesome-generated-files.hmap -I/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Wholesome-own-target-headers.hmap -I/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Wholesome-all-target-headers.hmap -iquote /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Wholesome-project-headers.hmap -F/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator -I/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/include -I/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/DerivedSources/i386 -I/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/DerivedSources -include /var/folders/m1/m1vvoFxD2PaFg++1YrAfEU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Wholesome_Prefix-dsdskdxyeeighfajavdaljiysero/Wholesome_Prefix.pch -c /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Classes/WholesomeAppDelegate.m -o /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Objects-normal/i386/WholesomeAppDelegate.o0#
+
+CCompileC build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Objects-normal/i386/WholesomeAppDelegate.o /Volumes/WHOLESOMESD/WholesomeDec.1.2010/Classes/WholesomeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320807448.264907
+e320807449.146032
+r1
+xCompileC
+xbuild/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Objects-normal/i386/WholesomeAppDelegate.o
+x/Volumes/WHOLESOMESD/WholesomeDec.1.2010/Classes/WholesomeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@79"Compile /Volumes/WHOLESOMESD/WholesomeDec.1.2010/Classes/WholesomeAppDelegate.m320807448#320807449#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#71"/Volumes/WHOLESOMESD/WholesomeDec.1.2010/Classes/WholesomeAppDelegate.m8603950688#2057"    cd /Volumes/WHOLESOMESD/WholesomeDec.1.2010    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Wholesome-generated-files.hmap -I/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Wholesome-own-target-headers.hmap -I/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Wholesome-all-target-headers.hmap -iquote /Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Wholesome-project-headers.hmap -F/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator -I/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/include -I/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/DerivedSources/i386 -I/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/DerivedSources -include /var/folders/m1/m1vvoFxD2PaFg++1YrAfEU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Wholesome_Prefix-gdgxucwfajkvxjdmdpggojecctfk/Wholesome_Prefix.pch -c /Volumes/WHOLESOMESD/WholesomeDec.1.2010/Classes/WholesomeAppDelegate.m -o /Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Objects-normal/i386/WholesomeAppDelegate.o0#
+
+CCompileC build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Objects-normal/i386/main.o /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s312930609.842584
+e312930609.924073
+r1
+xCompileC
+xbuild/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Objects-normal/i386/main.o
+x/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@79"Compile /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/main.m312930609#312930609#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#71"/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/main.m8604328032#2281"    cd /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Wholesome-generated-files.hmap -I/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Wholesome-own-target-headers.hmap -I/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Wholesome-all-target-headers.hmap -iquote /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Wholesome-project-headers.hmap -F/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator -I/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/include -I/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/DerivedSources/i386 -I/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/DerivedSources -include /var/folders/m1/m1vvoFxD2PaFg++1YrAfEU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Wholesome_Prefix-dsdskdxyeeighfajavdaljiysero/Wholesome_Prefix.pch -c /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/main.m -o /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Objects-normal/i386/main.o0#
+
+CCompileC build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Objects-normal/i386/main.o /Volumes/WHOLESOMESD/WholesomeDec.1.2010/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320807448.263852
+e320807448.599898
+r1
+xCompileC
+xbuild/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Objects-normal/i386/main.o
+x/Volumes/WHOLESOMESD/WholesomeDec.1.2010/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@55"Compile /Volumes/WHOLESOMESD/WholesomeDec.1.2010/main.m320807448#320807448#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#47"/Volumes/WHOLESOMESD/WholesomeDec.1.2010/main.m8604234048#2017"    cd /Volumes/WHOLESOMESD/WholesomeDec.1.2010    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Wholesome-generated-files.hmap -I/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Wholesome-own-target-headers.hmap -I/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Wholesome-all-target-headers.hmap -iquote /Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Wholesome-project-headers.hmap -F/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator -I/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/include -I/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/DerivedSources/i386 -I/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/DerivedSources -include /var/folders/m1/m1vvoFxD2PaFg++1YrAfEU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Wholesome_Prefix-gdgxucwfajkvxjdmdpggojecctfk/Wholesome_Prefix.pch -c /Volumes/WHOLESOMESD/WholesomeDec.1.2010/main.m -o /Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/BigCubeView.xib
+s312930607.601161
+e312930608.279255
+r1
+xCompileXIB
+x/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/BigCubeView.xib
+lSLF07#2@26"CompileXIB BigCubeView.xib312930607#312930608#0(0"0(0#0#80"/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/BigCubeView.xib8603164768#652"    cd /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/BigCubeView.nib /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/BigCubeView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/HeaderView.xib
+s312930608.279347
+e312930608.935754
+r1
+xCompileXIB
+x/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/HeaderView.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB HeaderView.xib312930608#312930608#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#79"/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/HeaderView.xib8599961056#650"    cd /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/HeaderView.nib /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/HeaderView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/MainWindow.xib
+s312930607.500946
+e312930608.480268
+r1
+xCompileXIB
+x/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib312930607#312930608#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#79"/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/MainWindow.xib8603509696#650"    cd /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/MainWindow.nib /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Volumes/WHOLESOMESD/WholesomeDec.1.2010/MainWindow.xib
+r0
+
+CCpResource build/Debug-iphonesimulator/Wholesome.app/Default.png Default.png
+s312930607.507140
+e312930607.635012
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Wholesome.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png312930607#312930607#0(0"0(0#0#76"/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Default.png8593352736#535"    cd /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Default.png /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app0#
+
+CCpResource build/Debug-iphonesimulator/Wholesome.app/Icon.png Icon.png
+s312930607.513300
+e312930607.562842
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Wholesome.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png312930607#312930607#0(0"0(0#0#73"/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Icon.png8606538112#532"    cd /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Icon.png /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app0#
+
+CCpResource build/Debug-iphonesimulator/Wholesome.app/bigCubeNA.png bigCubeNA.png
+s312930607.503006
+e312930607.543177
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Wholesome.app/bigCubeNA.png
+xbigCubeNA.png
+lSLF07#2@18"Copy bigCubeNA.png312930607#312930607#0(0"0(0#0#78"/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/bigCubeNA.png8603079264#537"    cd /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/bigCubeNA.png /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app0#
+
+CCpResource build/Debug-iphonesimulator/Wholesome.app/circle.png circle.png
+s312930607.552522
+e312930607.568587
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Wholesome.app/circle.png
+xcircle.png
+lSLF07#2@15"Copy circle.png312930607#312930607#0(0"0(0#0#75"/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/circle.png8604490720#534"    cd /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/circle.png /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app0#
+
+CCpResource build/Debug-iphonesimulator/Wholesome.app/crud.title.png crud.title.png
+s312930607.595564
+e312930607.606892
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Wholesome.app/crud.title.png
+xcrud.title.png
+lSLF07#2@19"Copy crud.title.png312930607#312930607#0(0"0(0#0#79"/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/crud.title.png8600818880#538"    cd /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/crud.title.png /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app0#
+
+CCpResource build/Debug-iphonesimulator/Wholesome.app/crudCube.titleButton.disabled.png crudCube.titleButton.disabled.png
+s312930607.561094
+e312930607.583134
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Wholesome.app/crudCube.titleButton.disabled.png
+xcrudCube.titleButton.disabled.png
+lSLF07#2@38"Copy crudCube.titleButton.disabled.png312930607#312930607#0(0"0(0#0#98"/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/crudCube.titleButton.disabled.png8604232576#557"    cd /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/crudCube.titleButton.disabled.png /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app0#
+
+CCpResource build/Debug-iphonesimulator/Wholesome.app/crudCube.titleButton.png crudCube.titleButton.png
+s312930607.580734
+e312930607.601095
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Wholesome.app/crudCube.titleButton.png
+xcrudCube.titleButton.png
+lSLF07#2@29"Copy crudCube.titleButton.png312930607#312930607#0(0"0(0#0#89"/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/crudCube.titleButton.png8603664032#548"    cd /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/crudCube.titleButton.png /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app0#
+
+CCpResource build/Debug-iphonesimulator/Wholesome.app/legfish.button.png legfish.button.png
+s312930607.509635
+e312930607.543435
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Wholesome.app/legfish.button.png
+xlegfish.button.png
+lSLF07#2@23"Copy legfish.button.png312930607#312930607#0(0"0(0#0#83"/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/legfish.button.png8603333600#542"    cd /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/legfish.button.png /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app0#
+
+CCpResource build/Debug-iphonesimulator/Wholesome.app/merch.title.png merch.title.png
+s312930607.585735
+e312930607.600972
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Wholesome.app/merch.title.png
+xmerch.title.png
+lSLF07#2@20"Copy merch.title.png312930607#312930607#0(0"0(0#0#80"/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/merch.title.png8602398656#539"    cd /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/merch.title.png /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app0#
+
+CCpResource build/Debug-iphonesimulator/Wholesome.app/merchCube.titleButton.disabled.png merchCube.titleButton.disabled.png
+s312930607.562909
+e312930607.580644
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Wholesome.app/merchCube.titleButton.disabled.png
+xmerchCube.titleButton.disabled.png
+lSLF07#2@39"Copy merchCube.titleButton.disabled.png312930607#312930607#0(0"0(0#0#99"/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/merchCube.titleButton.disabled.png8604157632#558"    cd /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/merchCube.titleButton.disabled.png /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app0#
+
+CCpResource build/Debug-iphonesimulator/Wholesome.app/merchCube.titleButton.png merchCube.titleButton.png
+s312930607.558587
+e312930607.568937
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Wholesome.app/merchCube.titleButton.png
+xmerchCube.titleButton.png
+lSLF07#2@30"Copy merchCube.titleButton.png312930607#312930607#0(0"0(0#0#90"/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/merchCube.titleButton.png8604314816#549"    cd /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/merchCube.titleButton.png /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app0#
+
+CCpResource build/Debug-iphonesimulator/Wholesome.app/mob.title.png mob.title.png
+s312930607.546917
+e312930607.566754
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Wholesome.app/mob.title.png
+xmob.title.png
+lSLF07#2@18"Copy mob.title.png312930607#312930607#0(0"0(0#0#78"/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/mob.title.png8604588960#537"    cd /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/mob.title.png /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app0#
+
+CCpResource build/Debug-iphonesimulator/Wholesome.app/mobCube.titleButton.disabled.png mobCube.titleButton.disabled.png
+s312930607.566830
+e312930607.634462
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Wholesome.app/mobCube.titleButton.disabled.png
+xmobCube.titleButton.disabled.png
+lSLF07#2@37"Copy mobCube.titleButton.disabled.png312930607#312930607#0(0"0(0#0#97"/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/mobCube.titleButton.disabled.png8604038240#556"    cd /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/mobCube.titleButton.disabled.png /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app0#
+
+CCpResource build/Debug-iphonesimulator/Wholesome.app/mobCube.titleButton.png mobCube.titleButton.png
+s312930607.572289
+e312930607.595477
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Wholesome.app/mobCube.titleButton.png
+xmobCube.titleButton.png
+lSLF07#2@28"Copy mobCube.titleButton.png312930607#312930607#0(0"0(0#0#88"/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/mobCube.titleButton.png8603813664#547"    cd /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/mobCube.titleButton.png /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app0#
+
+CCpResource build/Debug-iphonesimulator/Wholesome.app/navCubeNA.png navCubeNA.png
+s312930607.503990
+e312930607.552438
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Wholesome.app/navCubeNA.png
+xnavCubeNA.png
+lSLF07#2@18"Copy navCubeNA.png312930607#312930607#0(0"0(0#0#78"/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/navCubeNA.png8602617472#537"    cd /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/navCubeNA.png /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app0#
+
+CCpResource build/Debug-iphonesimulator/Wholesome.app/navCubeTouchedNA.png navCubeTouchedNA.png
+s312930607.505653
+e312930607.541059
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Wholesome.app/navCubeTouchedNA.png
+xnavCubeTouchedNA.png
+lSLF07#2@25"Copy navCubeTouchedNA.png312930607#312930607#0(0"0(0#0#85"/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/navCubeTouchedNA.png8600791232#544"    cd /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/navCubeTouchedNA.png /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app0#
+
+CCpResource build/Debug-iphonesimulator/Wholesome.app/point.png point.png
+s312930607.511800
+e312930607.568824
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Wholesome.app/point.png
+xpoint.png
+lSLF07#2@14"Copy point.png312930607#312930607#0(0"0(0#0#74"/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/point.png8605825856#533"    cd /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/point.png /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app0#
+
+CCpResource build/Debug-iphonesimulator/Wholesome.app/radio.title.png radio.title.png
+s312930607.598982
+e312930607.611567
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Wholesome.app/radio.title.png
+xradio.title.png
+lSLF07#2@20"Copy radio.title.png312930607#312930607#0(0"0(0#0#80"/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/radio.title.png8603822784#539"    cd /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/radio.title.png /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app0#
+
+CCpResource build/Debug-iphonesimulator/Wholesome.app/radioCube.titleButton.disabled.png radioCube.titleButton.disabled.png
+s320807443.613317
+e320807445.620499
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Wholesome.app/radioCube.titleButton.disabled.png
+xradioCube.titleButton.disabled.png
+lSLF07#2@39"Copy radioCube.titleButton.disabled.png320807443#320807445#0(0"0(0#0#75"/Volumes/WHOLESOMESD/WholesomeDec.1.2010/radioCube.titleButton.disabled.png32651294873550944#486"    cd /Volumes/WHOLESOMESD/WholesomeDec.1.2010    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Volumes/WHOLESOMESD/WholesomeDec.1.2010/radioCube.titleButton.disabled.png /Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app0#
+
+CCpResource build/Debug-iphonesimulator/Wholesome.app/radioCube.titleButton.png radioCube.titleButton.png
+s312930607.583326
+e312930607.603687
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Wholesome.app/radioCube.titleButton.png
+xradioCube.titleButton.png
+lSLF07#2@30"Copy radioCube.titleButton.png312930607#312930607#0(0"0(0#0#90"/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/radioCube.titleButton.png8603010944#549"    cd /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/radioCube.titleButton.png /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app0#
+
+CCpResource build/Debug-iphonesimulator/Wholesome.app/zine.cover.background.image.png zine.cover.background.image.png
+s312930607.541154
+e312930607.616082
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Wholesome.app/zine.cover.background.image.png
+xzine.cover.background.image.png
+lSLF07#2@36"Copy zine.cover.background.image.png312930607#312930607#0(0"0(0#0#96"/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/zine.cover.background.image.png8606259712#555"    cd /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/zine.cover.background.image.png /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app0#
+
+CCpResource build/Debug-iphonesimulator/Wholesome.app/zine.cover.bigCube.image.png zine.cover.bigCube.image.png
+s312930607.543506
+e312930607.561019
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Wholesome.app/zine.cover.bigCube.image.png
+xzine.cover.bigCube.image.png
+lSLF07#2@33"Copy zine.cover.bigCube.image.png312930607#312930607#0(0"0(0#0#93"/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/zine.cover.bigCube.image.png8606010624#552"    cd /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/zine.cover.bigCube.image.png /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app0#
+
+CCpResource build/Debug-iphonesimulator/Wholesome.app/zine.cover.title.image.png zine.cover.title.image.png
+s312930607.545268
+e312930607.568711
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Wholesome.app/zine.cover.title.image.png
+xzine.cover.title.image.png
+lSLF07#2@31"Copy zine.cover.title.image.png312930607#312930607#0(0"0(0#0#91"/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/zine.cover.title.image.png8605761312#550"    cd /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/zine.cover.title.image.png /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app0#
+
+CCpResource build/Debug-iphonesimulator/Wholesome.app/zine.navCubes.smallCube.image.png zine.navCubes.smallCube.image.png
+s312930607.508773
+e312930607.543305
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Wholesome.app/zine.navCubes.smallCube.image.png
+xzine.navCubes.smallCube.image.png
+lSLF07#2@38"Copy zine.navCubes.smallCube.image.png312930607#312930607#0(0"0(0#0#98"/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/zine.navCubes.smallCube.image.png8605876480#557"    cd /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/zine.navCubes.smallCube.image.png /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app0#
+
+CCpResource build/Debug-iphonesimulator/Wholesome.app/zine.navCubes.smallCubeTouched.image.png zine.navCubes.smallCubeTouched.image.png
+s312930607.514914
+e312930607.558497
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Wholesome.app/zine.navCubes.smallCubeTouched.image.png
+xzine.navCubes.smallCubeTouched.image.png
+lSLF07#2@45"Copy zine.navCubes.smallCubeTouched.image.png312930607#312930607#0(0"0(0#0#105"/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/zine.navCubes.smallCubeTouched.image.png8606691744#564"    cd /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/zine.navCubes.smallCubeTouched.image.png /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app0#
+
+CCpResource build/Debug-iphonesimulator/Wholesome.app/zineCube.titleButton.disabled.png zineCube.titleButton.disabled.png
+s312930607.570622
+e312930607.583258
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Wholesome.app/zineCube.titleButton.disabled.png
+xzineCube.titleButton.disabled.png
+lSLF07#2@38"Copy zineCube.titleButton.disabled.png312930607#312930607#0(0"0(0#0#98"/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/zineCube.titleButton.disabled.png8603846944#557"    cd /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/zineCube.titleButton.disabled.png /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app0#
+
+CCpResource build/Debug-iphonesimulator/Wholesome.app/zineCube.titleButton.png zineCube.titleButton.png
+s312930607.573893
+e312930607.598905
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Wholesome.app/zineCube.titleButton.png
+xzineCube.titleButton.png
+lSLF07#2@29"Copy zineCube.titleButton.png312930607#312930607#0(0"0(0#0#89"/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/zineCube.titleButton.png8603722400#548"    cd /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/zineCube.titleButton.png /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app0#
+
+CGenerateDSYMFile /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app.dSYM /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/Wholesome
+s312930916.574063
+e312930916.600885
+r1
+xGenerateDSYMFile
+x/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app.dSYM
+x/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/Wholesome
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/Wholesome.app.dSYM build/Debug-iphonesimulator/Wholesome.app/Wholesome312930916#312930916#0(0"0(0#0#116"/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/Wholesome8604893792#467"    cd /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/Wholesome -o /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app.dSYM0#
+
+CGenerateDSYMFile /Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app.dSYM /Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/Wholesome
+s320807449.678611
+e320807450.210144
+r1
+xGenerateDSYMFile
+x/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app.dSYM
+x/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/Wholesome
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/Wholesome.app.dSYM build/Debug-iphonesimulator/Wholesome.app/Wholesome320807449#320807450#0(0"0(0#0#92"/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/Wholesome8603823168#395"    cd /Volumes/WHOLESOMESD/WholesomeDec.1.2010    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/Wholesome -o /Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app.dSYM0#
+
+CLd /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/Wholesome normal i386
+s312930916.543487
+e312930916.573926
+r1
+xLd
+x/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/Wholesome
+xnormal
+xi386
+lSLF07#2@121"Link /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/Wholesome312930916#312930916#0(0"0(0#0#0"8601776768#1062"    cd /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator -F/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator -filelist /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Objects-normal/i386/Wholesome.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/Wholesome0#
+
+CLd /Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/Wholesome normal i386
+s320807449.146130
+e320807449.678493
+r1
+xLd
+x/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/Wholesome
+xnormal
+xi386
+lSLF07#2@97"Link /Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/Wholesome320807449#320807449#0(0"0(0#0#0"8603391520#942"    cd /Volumes/WHOLESOMESD/WholesomeDec.1.2010    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator -F/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator -filelist /Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Objects-normal/i386/Wholesome.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o /Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/Wholesome0#
+
+CProcessInfoPlistFile /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/Info.plist Wholesome-Info.plist
+s312930607.478126
+e312930607.500840
+r1
+xProcessInfoPlistFile
+x/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/Info.plist
+xWholesome-Info.plist
+lSLF07#2@28"Process Wholesome-Info.plist312930607#312930607#0(0"0(0#0#85"/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Wholesome-Info.plist32933040433463412#563"    cd /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Wholesome-Info.plist -genpkginfo /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app/Info.plist0#
+
+CProcessInfoPlistFile /Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app/Info.plist Wholesome-Info.plist
+r0
+
+CProcessPCH /var/folders/m1/m1vvoFxD2PaFg++1YrAfEU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Wholesome_Prefix-dsdskdxyeeighfajavdaljiysero/Wholesome_Prefix.pch.gch Wholesome_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s312930608.935920
+e312930609.842416
+r1
+xProcessPCH
+x/var/folders/m1/m1vvoFxD2PaFg++1YrAfEU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Wholesome_Prefix-dsdskdxyeeighfajavdaljiysero/Wholesome_Prefix.pch.gch
+xWholesome_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@31"Precompile Wholesome_Prefix.pch312930608#312930609#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#85"/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Wholesome_Prefix.pch8606605920#2145"    cd /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Wholesome-generated-files.hmap -I/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Wholesome-own-target-headers.hmap -I/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Wholesome-all-target-headers.hmap -iquote /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Wholesome-project-headers.hmap -F/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator -I/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/include -I/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/DerivedSources/i386 -I/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/DerivedSources -c /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/Wholesome_Prefix.pch -o /var/folders/m1/m1vvoFxD2PaFg++1YrAfEU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Wholesome_Prefix-dsdskdxyeeighfajavdaljiysero/Wholesome_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/m1/m1vvoFxD2PaFg++1YrAfEU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Wholesome_Prefix-gdgxucwfajkvxjdmdpggojecctfk/Wholesome_Prefix.pch.gch Wholesome_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s320807445.620746
+e320807448.263656
+r1
+xProcessPCH
+x/var/folders/m1/m1vvoFxD2PaFg++1YrAfEU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Wholesome_Prefix-gdgxucwfajkvxjdmdpggojecctfk/Wholesome_Prefix.pch.gch
+xWholesome_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@31"Precompile Wholesome_Prefix.pch320807445#320807448#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#61"/Volumes/WHOLESOMESD/WholesomeDec.1.2010/Wholesome_Prefix.pch8604033312#1905"    cd /Volumes/WHOLESOMESD/WholesomeDec.1.2010    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Wholesome-generated-files.hmap -I/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Wholesome-own-target-headers.hmap -I/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Wholesome-all-target-headers.hmap -iquote /Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/Wholesome-project-headers.hmap -F/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator -I/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/include -I/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/DerivedSources/i386 -I/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Wholesome.build/Debug-iphonesimulator/Wholesome.build/DerivedSources -c /Volumes/WHOLESOMESD/WholesomeDec.1.2010/Wholesome_Prefix.pch -o /var/folders/m1/m1vvoFxD2PaFg++1YrAfEU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Wholesome_Prefix-gdgxucwfajkvxjdmdpggojecctfk/Wholesome_Prefix.pch.gch0#
+
+CTouch /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app
+s312930916.600975
+e312930916.605475
+r1
+xTouch
+x/Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app
+lSLF07#2@112"Touch /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app312930916#312930916#0(0"0(0#0#0"8605510656#332"    cd /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/zackschneider/Desktop/Wholesome/Creative/X-Code/Wholesome/build/Debug-iphonesimulator/Wholesome.app0#
+
+CTouch /Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app
+s320807450.210332
+e320807450.216128
+r1
+xTouch
+x/Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app
+lSLF07#2@88"Touch /Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app320807450#320807450#0(0"0(0#0#0"8603186336#284"    cd /Volumes/WHOLESOMESD/WholesomeDec.1.2010    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Volumes/WHOLESOMESD/WholesomeDec.1.2010/build/Debug-iphonesimulator/Wholesome.app0#
+
